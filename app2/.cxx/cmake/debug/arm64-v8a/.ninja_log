@@ -1,0 +1,24 @@
+# ninja log v5
+2	3142	1616640696	CMakeFiles/breakpad.dir/src/main/include/client/linux/crash_generation/crash_generation_client.cc.o	6f852349f1f7953c
+3145	3242	1616640696	CMakeFiles/breakpad.dir/src/main/include/client/linux/log/log.cc.o	5fc01c2a20fe87eb
+4	3484	1616640696	CMakeFiles/breakpad.dir/src/main/include/client/linux/dump_writer_common/thread_info.cc.o	4af53ff989568b9a
+5	3527	1616640696	CMakeFiles/breakpad.dir/src/main/include/client/linux/dump_writer_common/ucontext_reader.cc.o	6bf24530fdec7b5b
+8	4021	1616640697	CMakeFiles/breakpad.dir/src/main/include/client/linux/handler/minidump_descriptor.cc.o	431a593b3f08b20e
+0	4984	1616640698	CMakeFiles/breakpad.dir/src/main/cpp/breakpad.cpp.o	38ca477e4bc2ac4e
+7	6085	1616640699	CMakeFiles/breakpad.dir/src/main/include/client/linux/handler/exception_handler.cc.o	ddcf9d430b545b36
+6086	6256	1616640699	CMakeFiles/breakpad.dir/src/main/include/common/convert_UTF.c.o	19c6485932ca5285
+6256	6401	1616640699	CMakeFiles/breakpad.dir/src/main/include/common/md5.cc.o	5cf8b57c3b389221
+3528	7023	1616640700	CMakeFiles/breakpad.dir/src/main/include/client/linux/minidump_writer/linux_ptrace_dumper.cc.o	2a30c1e0d2308411
+3242	7222	1616640700	CMakeFiles/breakpad.dir/src/main/include/client/linux/microdump_writer/microdump_writer.cc.o	7cfce5b8f141c97a
+4984	7653	1616640701	CMakeFiles/breakpad.dir/src/main/include/client/minidump_file_writer.cc.o	5d25fe5a10a84ba6
+3484	7773	1616640701	CMakeFiles/breakpad.dir/src/main/include/client/linux/minidump_writer/linux_dumper.cc.o	5d901784fb86a19d
+7773	7872	1616640701	CMakeFiles/breakpad.dir/src/main/include/common/linux/linux_libc_support.cc.o	10f05e89ec7a762a
+7653	8114	1616640701	CMakeFiles/breakpad.dir/src/main/include/common/linux/guid_creator.cc.o	a2cd40264f8418fd
+7873	8313	1616640701	CMakeFiles/breakpad.dir/src/main/include/common/linux/memory_mapped_file.cc.o	fdebb7137b389dfa
+8313	8407	1616640701	CMakeFiles/breakpad.dir/src/main/include/common/android/breakpad_getcontext.S.o	dda4aaa64c3a13b5
+8115	8529	1616640701	CMakeFiles/breakpad.dir/src/main/include/common/linux/safe_readlink.cc.o	6b186a8cc72f75b4
+6401	9679	1616640703	CMakeFiles/breakpad.dir/src/main/include/common/string_conversion.cc.o	34ac8c5fb32b6a5f
+7024	9790	1616640703	CMakeFiles/breakpad.dir/src/main/include/common/linux/elfutils.cc.o	3ba532d40cfb2a9c
+4022	9880	1616640703	CMakeFiles/breakpad.dir/src/main/include/client/linux/minidump_writer/minidump_writer.cc.o	b46c3f12accb90a9
+7222	11032	1616640704	CMakeFiles/breakpad.dir/src/main/include/common/linux/file_id.cc.o	1e267842530c42b
+11033	11421	1616640704	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbreakpad.so	c04de407ce22c585

@@ -1,0 +1,153 @@
+{
+  "stringTable": {
+    "0": "/Qunar/BreakPadTest/app2/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Qunar/BreakPadTest/app2/CMakeLists.txt",
+    "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/admin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Qunar/BreakPadTest/app2/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/admin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Qunar/BreakPadTest/app2/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "breakpad-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/admin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Qunar/BreakPadTest/app2/.cxx/cmake/debug/armeabi-v7a\" breakpad",
+      "buildType": "debug",
+      "toolchain": "994349568",
+      "abi": "armeabi-v7a",
+      "artifactName": "breakpad",
+      "files": [
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/convert_UTF.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/android/breakpad_getcontext.S",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/cpp/breakpad.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/crash_generation/crash_generation_client.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/dump_writer_common/thread_info.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/dump_writer_common/ucontext_reader.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/handler/exception_handler.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/handler/minidump_descriptor.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/log/log.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/microdump_writer/microdump_writer.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/linux_dumper.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/linux_ptrace_dumper.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/minidump_writer.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/client/minidump_file_writer.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/md5.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/string_conversion.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/elfutils.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/file_id.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/guid_creator.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/linux_libc_support.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/memory_mapped_file.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/safe_readlink.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Qunar/BreakPadTest/app2/build/intermediates/cmake/debug/obj/armeabi-v7a/libbreakpad.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "994349568": {
+      "cCompilerExecutable": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c",
+    "S"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

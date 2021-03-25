@@ -1,0 +1,133 @@
+[
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/cpp/breakpad.cpp.o -c /Qunar/BreakPadTest/app2/src/main/cpp/breakpad.cpp",
+  "file": "/Qunar/BreakPadTest/app2/src/main/cpp/breakpad.cpp"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/crash_generation/crash_generation_client.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/crash_generation/crash_generation_client.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/crash_generation/crash_generation_client.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/dump_writer_common/thread_info.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/dump_writer_common/thread_info.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/dump_writer_common/thread_info.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/dump_writer_common/ucontext_reader.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/dump_writer_common/ucontext_reader.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/dump_writer_common/ucontext_reader.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/handler/exception_handler.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/handler/exception_handler.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/handler/exception_handler.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/handler/minidump_descriptor.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/handler/minidump_descriptor.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/handler/minidump_descriptor.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/log/log.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/log/log.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/log/log.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/microdump_writer/microdump_writer.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/microdump_writer/microdump_writer.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/microdump_writer/microdump_writer.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/minidump_writer/linux_dumper.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/linux_dumper.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/linux_dumper.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/minidump_writer/linux_ptrace_dumper.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/linux_ptrace_dumper.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/linux_ptrace_dumper.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/linux/minidump_writer/minidump_writer.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/minidump_writer.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/linux/minidump_writer/minidump_writer.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/client/minidump_file_writer.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/client/minidump_file_writer.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/client/minidump_file_writer.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/convert_UTF.c.o   -c /Qunar/BreakPadTest/app2/src/main/include/common/convert_UTF.c",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/convert_UTF.c"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/md5.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/common/md5.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/md5.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/string_conversion.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/common/string_conversion.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/string_conversion.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/linux/elfutils.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/common/linux/elfutils.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/elfutils.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/linux/file_id.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/common/linux/file_id.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/file_id.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/linux/guid_creator.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/common/linux/guid_creator.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/guid_creator.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/linux/linux_libc_support.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/common/linux/linux_libc_support.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/linux_libc_support.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/linux/memory_mapped_file.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/common/linux/memory_mapped_file.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/memory_mapped_file.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/linux/safe_readlink.cc.o -c /Qunar/BreakPadTest/app2/src/main/include/common/linux/safe_readlink.cc",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/linux/safe_readlink.cc"
+},
+
+{
+  "directory": "/Qunar/BreakPadTest/app2/.cxx/cmake/release/x86",
+  "command": "/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/admin/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbreakpad_EXPORTS -I../../../../src/main/include -I../../../../src/main/include/common/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles/breakpad.dir/src/main/include/common/android/breakpad_getcontext.S.o   -c /Qunar/BreakPadTest/app2/src/main/include/common/android/breakpad_getcontext.S",
+  "file": "/Qunar/BreakPadTest/app2/src/main/include/common/android/breakpad_getcontext.S"
+}
+]
